@@ -12,7 +12,11 @@ Next, in Todoist, go to your account settings and to integrations. Select Develo
 
 # Installation
 
-Copy the `todoist_shopping_list` folder to your `custom_components` directory inside your Home Assistant config folder.
+Firstly, please ensure you have Home Assistant's Shopping List integration enabled on your installation:
+
+https://www.home-assistant.io/integrations/shopping_list/
+
+With that done, copy the `todoist_shopping_list` folder to your `custom_components` directory inside your Home Assistant config folder.
 
 Reboot Home Assistant
 
