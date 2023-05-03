@@ -6,7 +6,7 @@ Items you add to your shopping list with Alexa will show up on the shopping list
 
 # Things you will need
 
-You will need a Todoist account, which you have linked with your Alexa account. You will have an "Alexa Shopping List" in your Todoist projects if this has been linked successfully.
+You will need a Todoist account, which you have linked with your Alexa account. You will have an "Alexa Shopping List" in your Todoist projects if this has been linked successfully. You **must** make sure the Todoist project containing your Alexa shopping list is **specifically named** "Alexa Shopping List". Otherwise this integration won't be able to find it, and it will just show as being broken.
 
 Next, in Todoist, go to your account settings and to integrations. Select Developer. Copy the API token, you will need this shortly.
 
